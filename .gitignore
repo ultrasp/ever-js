@@ -1,0 +1,8 @@
+vendor/
+node_modules/
+public/image/visit
+.idea/
+*.txt
+.env
+composer.lock
+package-lock.json
