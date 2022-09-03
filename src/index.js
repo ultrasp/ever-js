@@ -1,4 +1,5 @@
 import { ProviderRpcClient } from 'everscale-inpage-provider'
+import { utils } from 'ethers'
 
 export const EverWalletWebProvider = {
   ever: function () {
